@@ -1,8 +1,8 @@
-# Chess AI Engine
+# Elite64 Chess AI
 
-A competitive chess-playing AI that uses the minimax algorithm with alpha-beta pruning to predict moves ahead and make intelligent decisions.
+A competitive chess-playing AI that uses the minimax algorithm with alpha-beta pruning to predict moves ahead and make intelligent decisions. Includes advanced humanization for realistic play and optional Chess.com integration.
 
-**NEW: Chess.com Integration** - Bot can now play on Chess.com (see warnings below)
+**Key Features**: Minimax AI (4+ moves ahead), Advanced humanization, Chess.com bot integration, Stockfish support
 
 ## ⚠️ IMPORTANT WARNING - Chess.com Bot
 
